@@ -1,0 +1,21 @@
+
+.profile-image{
+    border-radius: 50%;
+    width: 152px;
+    height: 152px;
+    margin-top: -100px;
+    margin-left: 25px;
+}
+.container-acercade{
+    display: flex;
+    justify-content: space-between;
+}
+.nombre-acercade{
+    width: 30%;
+}
+.descripcion-acercade{
+    width: 60%;
+}
+.descripcion-acercade p{
+    font-size: 1.25rem;
+}
